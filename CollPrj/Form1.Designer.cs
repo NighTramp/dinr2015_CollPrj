@@ -51,9 +51,9 @@
             this.label2.Location = new System.Drawing.Point(13, 57);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(219, 27);
+            this.label2.Size = new System.Drawing.Size(77, 27);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Просьба отметиться";
+            this.label2.Text = "Тимур";
             // 
             // label3
             // 
@@ -75,7 +75,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
